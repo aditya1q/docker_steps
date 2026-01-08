@@ -1,0 +1,7 @@
+# for windows
+
+# Create a virtual environment (venv is included with Python 3)
+python -m venv venv
+
+# Activate the virtual environment
+venv\Scripts\Activate
